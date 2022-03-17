@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="303" />
+   <irq preferredWidth="34" />
+   <inputclock preferredWidth="198" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/DSP,Library/University Program/Audio &amp; Video/Video,Library,Library/University Program/Audio &amp; Video,Library/DSP/Video and Image Processing,Library/University Program" />
+ <window width="1756" height="993" x="0" y="0" />
+ <hdlexample language="VERILOG" />
+</preferences>

@@ -1,0 +1,260 @@
+2022/03/17 13:13:41 Starting cygwin install, version 2.918
+2022/03/17 13:13:41 User has backup/restore rights
+2022/03/17 13:13:41 User has symlink creation right
+2022/03/17 13:13:41 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2022/03/17 13:13:41 Current Directory: C:\Users\Vicky\Downloads
+2022/03/17 13:13:47 source: network install
+2022/03/17 13:15:14 root: C:\Users\Vicky\Downloads\%QUARTUS_BIN%\cygwin system
+2022/03/17 13:15:24 root: C:\Users\Vicky\Downloads\%QUARTUS_BIN%\cygwin system
+2022/03/17 13:15:30 Selected local directory: %QUARTUS_BIN%\cygwin
+2022/03/17 13:15:30 mbox : Directory %QUARTUS_BIN%\cygwin does not exist, would you like me to create it?
+2022/03/17 13:17:04 root: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin system
+2022/03/17 13:17:10 root: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin system
+2022/03/17 13:17:13 Selected local directory: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin
+2022/03/17 13:17:18 net: Preconfig
+2022/03/17 13:19:30 site: http://mirrors.163.com/cygwin/
+2022/03/17 13:19:36 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2022/03/17 13:19:36 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2022/03/17 13:19:37 solving: 37 tasks, update: yes, use test packages: no
+2022/03/17 13:19:47 solving: 74 tasks, update: no, use test packages: no
+2022/03/17 13:19:47 Augmented Transaction List:
+2022/03/17 13:19:47    0 install base-cygwin     3.8-1          
+2022/03/17 13:19:47    1 install cygwin          3.3.4-2        
+2022/03/17 13:19:47    2 install libpopt-common  1.18-1         
+2022/03/17 13:19:47    3 install terminfo        6.1-1.20190727 
+2022/03/17 13:19:47    4 install tzdata          2021e-1        
+2022/03/17 13:19:47    5 install zlib0           1.2.11-1       
+2022/03/17 13:19:47    6 install which           2.20-2         
+2022/03/17 13:19:47    7 install run             1.3.4-2        
+2022/03/17 13:19:47    8 install mintty          3.5.3-1        
+2022/03/17 13:19:47    9 install login           1.13-1         
+2022/03/17 13:19:47   10 install libtasn1_6      4.14-1         
+2022/03/17 13:19:47   11 install libsigsegv2     2.10-2         
+2022/03/17 13:19:47   12 install libpipeline1    1.5.3-1        
+2022/03/17 13:19:47   13 install libpcre2_8_0    10.39-1        
+2022/03/17 13:19:47   14 install libpcre1        8.45-1         
+2022/03/17 13:19:47   15 install liblzma5        5.2.5-1        
+2022/03/17 13:19:47   16 install liblz4_1        1.7.5-1        
+2022/03/17 13:19:47   17 install libiconv2       1.16-2         
+2022/03/17 13:19:47   18 install libgmp10        6.2.1-2        
+2022/03/17 13:19:47   19 install libgcc1         11.2.0-1       
+2022/03/17 13:19:47   20 install libffi6         3.2.1-2        
+2022/03/17 13:19:47   21 install libbz2_1        1.0.8-1        
+2022/03/17 13:19:47   22 install libargp         20110921-3     
+2022/03/17 13:19:47   23 install ipc-utils       1.0-2          
+2022/03/17 13:19:47   24 install hostname        3.13-1         
+2022/03/17 13:19:47   25 install editrights      1.03-1         
+2022/03/17 13:19:47   26 install dash            0.5.11.5-1     
+2022/03/17 13:19:47   27 install terminfo-extra  6.1-1.20190727 
+2022/03/17 13:19:47   28 install libintl8        0.21-1         
+2022/03/17 13:19:47   29 install libstdc++6      11.2.0-1       
+2022/03/17 13:19:47   30 install libmpfr6        4.1.0-2        
+2022/03/17 13:19:47   31 install file            5.41-2         
+2022/03/17 13:19:47   32 install getent          2.18.90-4      
+2022/03/17 13:19:47   33 install _autorebase     001091-1       
+2022/03/17 13:19:47   34 install libncursesw10   6.1-1.20190727 
+2022/03/17 13:19:47   35 install sed             4.8-1          
+2022/03/17 13:19:47   36 install libuuid1        2.33.1-2       
+2022/03/17 13:19:47   37 install libsmartcols1   2.33.1-2       
+2022/03/17 13:19:47   38 install libpopt0        1.18-1         
+2022/03/17 13:19:47   39 install libp11-kit0     0.23.20-1      
+2022/03/17 13:19:47   40 install libgdbm6        1.18.1-1       
+2022/03/17 13:19:47   41 install libattr1        2.4.48-2       
+2022/03/17 13:19:47   42 install diffutils       3.8-1          
+2022/03/17 13:19:47   43 install alternatives    1.3.30c-10     
+2022/03/17 13:19:47   44 install vim-minimal     8.2.4372-1     
+2022/03/17 13:19:47   45 install ncurses         6.1-1.20190727 
+2022/03/17 13:19:47   46 install libreadline7    8.1-2          
+2022/03/17 13:19:47   47 install less            590-1          
+2022/03/17 13:19:47   48 install info            6.8-2          
+2022/03/17 13:19:47   49 install libblkid1       2.33.1-2       
+2022/03/17 13:19:47   50 install cygutils        1.4.17-1       
+2022/03/17 13:19:47   51 install p11-kit-trust   0.23.20-1      
+2022/03/17 13:19:47   52 install p11-kit         0.23.20-1      
+2022/03/17 13:19:47   53 install gawk            5.1.1-1        
+2022/03/17 13:19:47   54 install coreutils       8.26-2         
+2022/03/17 13:19:47   55 install libfdisk1       2.33.1-2       
+2022/03/17 13:19:47   56 install bash            4.4.12-3       
+2022/03/17 13:19:47   57 install util-linux      2.33.1-2       
+2022/03/17 13:19:47   58 install tzcode          2021e-1        
+2022/03/17 13:19:47   59 install zstd            1.5.2-1        
+2022/03/17 13:19:47   60 install xz              5.2.5-1        
+2022/03/17 13:19:47   61 install gzip            1.11-1         
+2022/03/17 13:19:47   62 install groff           1.22.4-1       
+2022/03/17 13:19:47   63 install grep            3.7-2          
+2022/03/17 13:19:47   64 install findutils       4.9.0-1        
+2022/03/17 13:19:47   65 install crypto-policies 20190218-1     
+2022/03/17 13:19:47   66 install ca-certificates 2021.2.52-1    
+2022/03/17 13:19:47   67 install bzip2           1.0.8-1        
+2022/03/17 13:19:47   68 install man-db          2.10.1-1       
+2022/03/17 13:19:47   69 install rebase          4.5.0-1        
+2022/03/17 13:19:47   70 install base-files      4.3-3          
+2022/03/17 13:19:47   71 install libssl1.1       1.1.1m-1       
+2022/03/17 13:19:47   72 install tar             1.34-1         
+2022/03/17 13:19:47   73 install openssl         1.1.1m-1       
+2022/03/17 13:19:50 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2022/03/17 13:19:53 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/cygwin/cygwin-3.3.4-2.tar.xz
+2022/03/17 13:19:53 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.18-1.tar.xz
+2022/03/17 13:19:53 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.1-1.20190727.tar.xz
+2022/03/17 13:19:54 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/tzdata/tzdata-2021e-1.tar.xz
+2022/03/17 13:19:54 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2022/03/17 13:19:57 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2022/03/17 13:19:58 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2022/03/17 13:19:59 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/mintty/mintty-3.5.3-1.tar.xz
+2022/03/17 13:20:00 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/login/login-1.13-1.tar.xz
+2022/03/17 13:20:00 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.14-1.tar.xz
+2022/03/17 13:20:00 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2022/03/17 13:20:00 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.5.3-1.tar.xz
+2022/03/17 13:20:01 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/pcre2/libpcre2_8_0/libpcre2_8_0-10.39-1.tar.zst
+2022/03/17 13:20:01 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.45-1.tar.zst
+2022/03/17 13:20:01 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.5-1.tar.zst
+2022/03/17 13:20:02 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/lz4/liblz4_1/liblz4_1-1.7.5-1.tar.xz
+2022/03/17 13:20:02 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.16-2.tar.xz
+2022/03/17 13:20:03 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.2.1-2.tar.zst
+2022/03/17 13:20:03 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-11.2.0-1.tar.zst
+2022/03/17 13:20:03 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+2022/03/17 13:20:03 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.8-1.tar.xz
+2022/03/17 13:20:03 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz
+2022/03/17 13:20:04 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2022/03/17 13:20:05 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2022/03/17 13:20:05 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2022/03/17 13:20:06 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/dash/dash-0.5.11.5-1.tar.xz
+2022/03/17 13:20:06 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ncurses/terminfo-extra/terminfo-extra-6.1-1.20190727.tar.xz
+2022/03/17 13:20:06 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.21-1.tar.xz
+2022/03/17 13:20:07 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-11.2.0-1.tar.zst
+2022/03/17 13:20:09 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/mpfr/libmpfr6/libmpfr6-4.1.0-2.tar.zst
+2022/03/17 13:20:10 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/file/file-5.41-2.tar.xz
+2022/03/17 13:20:10 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2022/03/17 13:20:10 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001091-1.tar.zst
+2022/03/17 13:20:11 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.1-1.20190727.tar.xz
+2022/03/17 13:20:11 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/sed/sed-4.8-1.tar.xz
+2022/03/17 13:20:11 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.33.1-2.tar.xz
+2022/03/17 13:20:12 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-2.tar.xz
+2022/03/17 13:20:12 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.18-1.tar.xz
+2022/03/17 13:20:12 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.20-1.tar.xz
+2022/03/17 13:20:12 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gdbm/libgdbm6/libgdbm6-1.18.1-1.tar.xz
+2022/03/17 13:20:13 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.48-2.tar.xz
+2022/03/17 13:20:13 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.8-1.tar.xz
+2022/03/17 13:20:17 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2022/03/17 13:20:18 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.2.4372-1.tar.xz
+2022/03/17 13:20:19 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.1-1.20190727.tar.xz
+2022/03/17 13:20:19 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-8.1-2.tar.xz
+2022/03/17 13:20:19 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/less/less-590-1.tar.xz
+2022/03/17 13:20:20 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/texinfo/info/info-6.8-2.tar.xz
+2022/03/17 13:20:20 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.33.1-2.tar.xz
+2022/03/17 13:20:21 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.17-1.tar.xz
+2022/03/17 13:20:21 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.20-1.tar.xz
+2022/03/17 13:20:21 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.23.20-1.tar.xz
+2022/03/17 13:20:22 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gawk/gawk-5.1.1-1.tar.xz
+2022/03/17 13:20:25 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.26-2.tar.xz
+2022/03/17 13:20:25 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/libfdisk1/libfdisk1-2.33.1-2.tar.xz
+2022/03/17 13:20:26 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/bash/bash-4.4.12-3.tar.xz
+2022/03/17 13:20:27 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.33.1-2.tar.xz
+2022/03/17 13:20:27 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/tzcode/tzcode-2021e-1.tar.xz
+2022/03/17 13:20:28 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/zstd/zstd-1.5.2-1.tar.zst
+2022/03/17 13:20:28 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/xz/xz-5.2.5-1.tar.zst
+2022/03/17 13:20:29 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gzip/gzip-1.11-1.tar.xz
+2022/03/17 13:20:31 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/groff/groff-1.22.4-1.tar.xz
+2022/03/17 13:20:31 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/grep/grep-3.7-2.tar.xz
+2022/03/17 13:20:32 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/findutils/findutils-4.9.0-1.tar.xz
+2022/03/17 13:20:32 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/crypto-policies/crypto-policies-20190218-1.tar.xz
+2022/03/17 13:20:33 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2021.2.52-1.tar.zst
+2022/03/17 13:20:33 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.8-1.tar.xz
+2022/03/17 13:20:34 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/man-db/man-db-2.10.1-1.tar.zst
+2022/03/17 13:20:34 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/rebase/rebase-4.5.0-1.tar.xz
+2022/03/17 13:20:34 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/base-files/base-files-4.3-3.tar.zst
+2022/03/17 13:20:35 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/openssl/libssl1.1/libssl1.1-1.1.1m-1.tar.zst
+2022/03/17 13:20:36 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/tar/tar-1.34-1.tar.zst
+2022/03/17 13:20:37 Downloaded C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/openssl/openssl-1.1.1m-1.tar.zst
+2022/03/17 13:20:37 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2022/03/17 13:20:37 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/cygwin/cygwin-3.3.4-2.tar.xz
+2022/03/17 13:20:38 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.18-1.tar.xz
+2022/03/17 13:20:39 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.1-1.20190727.tar.xz
+2022/03/17 13:20:40 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/tzdata/tzdata-2021e-1.tar.xz
+2022/03/17 13:20:58 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2022/03/17 13:20:58 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2022/03/17 13:20:58 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2022/03/17 13:20:58 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/mintty/mintty-3.5.3-1.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/login/login-1.13-1.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.14-1.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.5.3-1.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/pcre2/libpcre2_8_0/libpcre2_8_0-10.39-1.tar.zst
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.45-1.tar.zst
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.5-1.tar.zst
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/lz4/liblz4_1/liblz4_1-1.7.5-1.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.16-2.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.2.1-2.tar.zst
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-11.2.0-1.tar.zst
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.8-1.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/dash/dash-0.5.11.5-1.tar.xz
+2022/03/17 13:20:59 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ncurses/terminfo-extra/terminfo-extra-6.1-1.20190727.tar.xz
+2022/03/17 13:21:19 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.21-1.tar.xz
+2022/03/17 13:21:19 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-11.2.0-1.tar.zst
+2022/03/17 13:21:19 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/mpfr/libmpfr6/libmpfr6-4.1.0-2.tar.zst
+2022/03/17 13:21:19 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/file/file-5.41-2.tar.xz
+2022/03/17 13:21:19 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2022/03/17 13:21:19 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001091-1.tar.zst
+2022/03/17 13:21:20 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.1-1.20190727.tar.xz
+2022/03/17 13:21:20 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/sed/sed-4.8-1.tar.xz
+2022/03/17 13:21:20 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.33.1-2.tar.xz
+2022/03/17 13:21:20 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-2.tar.xz
+2022/03/17 13:21:20 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.18-1.tar.xz
+2022/03/17 13:21:21 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.20-1.tar.xz
+2022/03/17 13:21:21 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gdbm/libgdbm6/libgdbm6-1.18.1-1.tar.xz
+2022/03/17 13:21:21 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.48-2.tar.xz
+2022/03/17 13:21:21 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.8-1.tar.xz
+2022/03/17 13:21:22 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2022/03/17 13:21:23 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.2.4372-1.tar.xz
+2022/03/17 13:21:23 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.1-1.20190727.tar.xz
+2022/03/17 13:21:24 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-8.1-2.tar.xz
+2022/03/17 13:21:24 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/less/less-590-1.tar.xz
+2022/03/17 13:21:24 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/texinfo/info/info-6.8-2.tar.xz
+2022/03/17 13:21:24 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.33.1-2.tar.xz
+2022/03/17 13:21:24 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.17-1.tar.xz
+2022/03/17 13:21:25 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.20-1.tar.xz
+2022/03/17 13:21:25 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.23.20-1.tar.xz
+2022/03/17 13:21:25 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gawk/gawk-5.1.1-1.tar.xz
+2022/03/17 13:21:26 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.26-2.tar.xz
+2022/03/17 13:21:30 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/libfdisk1/libfdisk1-2.33.1-2.tar.xz
+2022/03/17 13:21:30 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/bash/bash-4.4.12-3.tar.xz
+2022/03/17 13:21:32 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.33.1-2.tar.xz
+2022/03/17 13:21:34 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/tzcode/tzcode-2021e-1.tar.xz
+2022/03/17 13:21:35 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/zstd/zstd-1.5.2-1.tar.zst
+2022/03/17 13:21:35 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/xz/xz-5.2.5-1.tar.zst
+2022/03/17 13:21:35 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/gzip/gzip-1.11-1.tar.xz
+2022/03/17 13:21:35 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/groff/groff-1.22.4-1.tar.xz
+2022/03/17 13:21:41 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/grep/grep-3.7-2.tar.xz
+2022/03/17 13:21:41 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/findutils/findutils-4.9.0-1.tar.xz
+2022/03/17 13:21:42 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/crypto-policies/crypto-policies-20190218-1.tar.xz
+2022/03/17 13:21:43 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2021.2.52-1.tar.zst
+2022/03/17 13:21:43 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.8-1.tar.xz
+2022/03/17 13:21:43 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/man-db/man-db-2.10.1-1.tar.zst
+2022/03/17 13:21:45 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/rebase/rebase-4.5.0-1.tar.xz
+2022/03/17 13:21:45 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/noarch/release/base-files/base-files-4.3-3.tar.zst
+2022/03/17 13:21:45 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/openssl/libssl1.1/libssl1.1-1.1.1m-1.tar.zst
+2022/03/17 13:21:45 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/tar/tar-1.34-1.tar.zst
+2022/03/17 13:21:46 Extracting from file://C:\intelFPGA_lite\19.1\quartus\bin64\cygwin/http%3a%2f%2fmirrors.163.com%2fcygwin%2f/x86_64/release/openssl/openssl-1.1.1m-1.tar.zst
+2022/03/17 13:21:47 Changing gid back to original
+2022/03/17 13:21:47 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2022/03/17 13:21:56 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2022/03/17 13:22:02 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2022/03/17 13:22:03 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2022/03/17 13:22:03 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2022/03/17 13:22:04 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2022/03/17 13:22:05 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2022/03/17 13:22:10 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/p11-kit.sh"
+2022/03/17 13:22:10 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2022/03/17 13:22:13 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/crypto-policies.sh"
+2022/03/17 13:22:22 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/openssl.sh"
+2022/03/17 13:22:23 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2022/03/17 13:22:23 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2022/03/17 13:22:24 running: C:\intelFPGA_lite\19.1\quartus\bin64\cygwin\bin\dash.exe "/etc/postinstall/zp_man-db-update-index.dash"
+2022/03/17 13:22:24 Changing gid to Administrators
+2022/03/17 13:24:23 note: Installation Complete
+2022/03/17 13:24:23 Ending cygwin install

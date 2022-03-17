@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Thu Mar 17 13:09:24 2022
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : DE1_SOC_D8M_SDRAM
+Top-level Entity Name : DE1_SOC_D8M_SDRAM
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 7063
+Total pins : 190
+Total virtual pins : 0
+Total block memory bits : 1,051,786
+Total DSP Blocks : 7
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 0
